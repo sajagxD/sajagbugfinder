@@ -1,0 +1,428 @@
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\BugTracer.exe.config
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\BugTracer.exe
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\BugTracer.pdb
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.csprojAssemblyReference.cache
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.Properties.Resources.resources
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.exe
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.pdb
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.login.resources
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.csproj.CopyComplete
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.create_users.resources
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.home.resources
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\MaterialSkin.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.projects.resources
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.create_bug.resources
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.Form1.resources
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\lib\win32\x64\git2-8e0b172.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\lib\win32\x64\git2-8e0b172.pdb
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\lib\win32\x86\git2-8e0b172.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\lib\win32\x86\git2-8e0b172.pdb
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\lib\osx\libgit2-8e0b172.dylib
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\lib\linux-x64\libgit2-8e0b172.so
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\lib\rhel-x64\libgit2-8e0b172.so
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\lib\fedora-x64\libgit2-8e0b172.so
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\lib\debian.9-x64\libgit2-8e0b172.so
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\lib\alpine-x64\libgit2-8e0b172.so
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.dll.config
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\netstandard.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.AppContext.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Collections.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.ComponentModel.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Console.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Data.Common.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Globalization.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.IO.Compression.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.IO.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.IO.Pipes.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Linq.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Net.Http.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Net.Ping.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Net.Primitives.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Net.Requests.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Net.Security.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Net.Sockets.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.ObjectModel.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Reflection.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Resources.Reader.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Resources.Writer.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Runtime.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Security.Claims.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Security.Principal.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Security.SecureString.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Text.Encoding.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Threading.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Threading.Thread.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Threading.Timer.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Xml.XPath.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\Microsoft.Alm.Authentication.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\Microsoft.Alm.Git.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\Microsoft.Vsts.Authentication.dll
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.pdb
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.xml
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\user\Desktop\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.exe.config
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.Form2.resources
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.viewproject.resources
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.managebugs.resources
+C:\Users\user\Desktop\BugTracer\BugTracer\obj\Debug\BugTracer.homedebuger.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.csprojAssemblyReference.cache
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.exe.config
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.exe
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.pdb
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\lib\win32\x64\git2-8e0b172.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\lib\win32\x64\git2-8e0b172.pdb
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\lib\win32\x86\git2-8e0b172.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\lib\win32\x86\git2-8e0b172.pdb
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\lib\osx\libgit2-8e0b172.dylib
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\lib\linux-x64\libgit2-8e0b172.so
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\lib\rhel-x64\libgit2-8e0b172.so
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\lib\fedora-x64\libgit2-8e0b172.so
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\lib\debian.9-x64\libgit2-8e0b172.so
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\lib\alpine-x64\libgit2-8e0b172.so
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.dll.config
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\BugTracer.exe.config
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\BugTracer.exe
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\BugTracer.pdb
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\netstandard.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.AppContext.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Collections.Concurrent.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Collections.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Collections.NonGeneric.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Collections.Specialized.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.ComponentModel.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.ComponentModel.Primitives.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Console.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Data.Common.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Contracts.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Debug.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Process.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Tools.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Tracing.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Drawing.Primitives.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Dynamic.Runtime.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Globalization.Calendars.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Globalization.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Globalization.Extensions.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.IO.Compression.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.IO.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.IO.IsolatedStorage.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.IO.Pipes.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Linq.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Linq.Expressions.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Linq.Parallel.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Linq.Queryable.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Net.Http.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Net.NameResolution.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Net.NetworkInformation.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Net.Ping.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Net.Primitives.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Net.Requests.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Net.Security.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Net.Sockets.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Net.WebSockets.Client.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Net.WebSockets.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.ObjectModel.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Reflection.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Reflection.Extensions.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Reflection.Primitives.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Resources.Reader.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Resources.ResourceManager.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Resources.Writer.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Runtime.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Runtime.Extensions.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Runtime.Handles.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Runtime.InteropServices.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Runtime.Numerics.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Security.Claims.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Security.Principal.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Security.SecureString.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Text.Encoding.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Text.RegularExpressions.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Threading.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Threading.Overlapped.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Threading.Tasks.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Threading.Thread.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Threading.ThreadPool.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Threading.Timer.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.ValueTuple.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Xml.ReaderWriter.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Xml.XDocument.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Xml.XmlDocument.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Xml.XmlSerializer.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Xml.XPath.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\MaterialSkin.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\Microsoft.Alm.Authentication.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\Microsoft.Alm.Git.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\Microsoft.Vsts.Authentication.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\MySql.Data.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\Google.Protobuf.dll
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.pdb
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.xml
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\bin\Debug\MySql.Data.xml
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.create_users.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.create_bug.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.Form1.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.homedebuger.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.Form2.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.home.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.login.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.managebugs.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.projects.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.Properties.Resources.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.viewproject.resources
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.csproj.GenerateResource.cache
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.csproj.CoreCompileInputs.cache
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.csproj.CopyComplete
+E:\sandesh paudyal -ASE(c7181449)\sandesh paudyal -ASE(c7181449)\BugTracer\BugTracer\obj\Debug\BugTracer.test.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\lib\win32\x64\git2-8e0b172.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\lib\win32\x64\git2-8e0b172.pdb
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\lib\win32\x86\git2-8e0b172.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\lib\win32\x86\git2-8e0b172.pdb
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\lib\osx\libgit2-8e0b172.dylib
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\lib\linux-x64\libgit2-8e0b172.so
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\lib\rhel-x64\libgit2-8e0b172.so
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\lib\fedora-x64\libgit2-8e0b172.so
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\lib\debian.9-x64\libgit2-8e0b172.so
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\lib\alpine-x64\libgit2-8e0b172.so
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.dll.config
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\BugTracer.exe.config
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\BugTracer.exe
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\BugTracer.pdb
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\netstandard.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.AppContext.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Collections.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.ComponentModel.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Console.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Data.Common.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Globalization.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.IO.Compression.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.IO.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.IO.Pipes.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Linq.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Net.Http.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Net.Ping.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Net.Primitives.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Net.Requests.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Net.Security.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Net.Sockets.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.ObjectModel.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Reflection.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Resources.Reader.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Resources.Writer.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Runtime.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Security.Claims.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Security.Principal.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Security.SecureString.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Text.Encoding.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Threading.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Threading.Thread.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Threading.Timer.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.ValueTuple.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Xml.XPath.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\MaterialSkin.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\Microsoft.Alm.Authentication.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\Microsoft.Alm.Git.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\Microsoft.Vsts.Authentication.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\MySql.Data.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\Google.Protobuf.dll
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.pdb
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\LibGit2Sharp.xml
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\bin\Debug\MySql.Data.xml
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.csprojAssemblyReference.cache
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.exe.config
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.create_users.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.create_bug.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.Form1.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.homedebuger.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.Form2.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.home.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.login.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.managebugs.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.projects.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.Properties.Resources.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.test.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.viewproject.resources
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.csproj.GenerateResource.cache
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.csproj.CoreCompileInputs.cache
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.csproj.CopyComplete
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.exe
+C:\Users\Sajag\Desktop\sajagbug\BugTracer\BugTracer\obj\Debug\BugTracer.pdb
